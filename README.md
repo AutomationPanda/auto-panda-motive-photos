@@ -11,3 +11,9 @@ Access images at:
 ```
 https://cdn.jsdelivr.net/gh/AutomationPanda/auto-panda-motive-photos/<filepath>
 ```
+
+> [!WARNING]
+> jsDelivr limits package size (meaning GitHub repository size) to 150 MB.
+> It also limits single files to 20 MB.
+> If this repository grows too big or if individual images are too big,
+> then jsDelivr will fail to serve them.
